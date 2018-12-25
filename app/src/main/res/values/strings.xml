@@ -1,0 +1,6 @@
+<resources>
+    <string name="facebook_app_id">2598075133543916</string>
+    <string name="fb_login_protocol_scheme">fb2598075133543916</string>
+
+    <string name="app_name">EbooksFinal</string>
+</resources>
