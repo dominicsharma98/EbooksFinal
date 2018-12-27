@@ -32,4 +32,9 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView"
         android:outlineSpotShadowColor="@color/indigo"
         />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="aaaaaaa"
+        android:id="@+id/mail"/>
 </android.support.constraint.ConstraintLayout>
